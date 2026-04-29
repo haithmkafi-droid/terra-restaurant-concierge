@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_convex/
+
+Sitemap: https://terra-restaurant.com/sitemap.xml
